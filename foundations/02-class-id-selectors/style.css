@@ -1,0 +1,19 @@
+p {
+   background-color: rgb(247, 56, 88);
+   font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#blue {
+    color: rgb(10, 10, 233);
+    font-size: 36px;
+}
+
+#cooler {
+    font-size: 24px;
+}
+
+#another {
+    background-color: rgb(110, 240, 110);
+    font-size: 24px;
+    font-weight: bold;
+}
